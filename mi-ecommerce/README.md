@@ -1,3 +1,3 @@
-Librería Vilela
+Librería 
 
 Proyecto Final - React
